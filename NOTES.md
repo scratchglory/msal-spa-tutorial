@@ -19,3 +19,6 @@ Configure your javascript SPA
     - modify the values in the msalConfig in this file
 
 7: Create file named graphConfig.js
+    - change the end points to https://graph.microsoft.com
+    - for endpoints in naional cloud deployments https://docs.microsoft.com/en-us/graph/deployments
+
