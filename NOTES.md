@@ -17,3 +17,5 @@ CREATING the SPA UI
 Configure your javascript SPA
 6: Create a file authConfig.js in the app folder to contain your configuration parameters for authentiction
     - modify the values in the msalConfig in this file
+
+7: Create file named graphConfig.js
